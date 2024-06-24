@@ -71,6 +71,7 @@
                 echo ("<p><b>Gênero: </b>" . $genero . "</p>");
             }
         }
+        include('conexao.php');
         ?>
     </form>
 
